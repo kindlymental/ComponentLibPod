@@ -19,7 +19,7 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "ComponentLibPod/Classes/*.swift",
+  "source_files": "ComponentLibPod/Classes/**",
   "dependencies": {
     "SnapKit": [
       "~> 4.0.1"
