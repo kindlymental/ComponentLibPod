@@ -20,6 +20,7 @@
     "ios": "8.0"
   },
   "source_files": "ComponentLibPod/Classes/*",
+  "public_header_files": "ComponentLibPod/Classes/*",
   "dependencies": {
     "SnapKit": [
       "~> 4.0.1"
