@@ -10,7 +10,6 @@
 #endif
 #endif
 
-#import "UIView+SetRect.swift"
 
 FOUNDATION_EXPORT double ComponentLibPodVersionNumber;
 FOUNDATION_EXPORT const unsigned char ComponentLibPodVersionString[];
