@@ -1,0 +1,43 @@
+PODS:
+  - ComponentLibPod (0.1.0):
+    - Kingfisher (~> 4.10.1)
+    - ObjectMapper (~> 3.4)
+    - SnapKit (~> 4.0.1)
+    - Toast-Swift (~> 4.0.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Kingfisher (4.10.1)
+  - ObjectMapper (3.4.1)
+  - SnapKit (4.0.1)
+  - Toast-Swift (4.0.1)
+
+DEPENDENCIES:
+  - ComponentLibPod (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FBSnapshotTestCase
+    - Kingfisher
+    - ObjectMapper
+    - SnapKit
+    - Toast-Swift
+
+EXTERNAL SOURCES:
+  ComponentLibPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ComponentLibPod: 4cc6f426d14119132ad5ad6f5217ae609cb2928b
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  ObjectMapper: 5311bd50ca732930959e7ca1a2de43ab823a5ced
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  Toast-Swift: e42a638589a2f95036b4bb7626cfbdde7daf0393
+
+PODFILE CHECKSUM: e1d54c8c3706026c2030f6ef8faad433813507ef
+
+COCOAPODS: 1.5.0

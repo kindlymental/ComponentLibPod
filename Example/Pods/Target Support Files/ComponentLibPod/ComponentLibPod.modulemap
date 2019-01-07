@@ -1,0 +1,6 @@
+framework module ComponentLibPod {
+  umbrella header "ComponentLibPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "ComponentLibPod",
+  "version": "0.1.0",
+  "summary": "ComponentLibPod 封装的私有库.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kindlymental/ComponentLibPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kindlymental": "2995293916@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/kindlymental/ComponentLibPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ComponentLibPod/Classes/**/*",
+  "dependencies": {
+    "SnapKit": [
+      "~> 4.0.1"
+    ],
+    "Kingfisher": [
+      "~> 4.10.1"
+    ],
+    "Toast-Swift": [
+      "~> 4.0.0"
+    ],
+    "ObjectMapper": [
+      "~> 3.4"
+    ]
+  }
+}

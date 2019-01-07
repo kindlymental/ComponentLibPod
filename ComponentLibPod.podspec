@@ -9,7 +9,9 @@
 Pod::Spec.new do |s|
   s.name             = 'ComponentLibPod'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of ComponentLibPod.'
+  s.summary          = 'ComponentLibPod 封装的私有库.'
+# 项目中使用了swift4，必须指定一下
+  s.swift_version    = '4.0'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -24,7 +26,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/kindlymental/ComponentLibPod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'kindlymental' => '825386039@qq.com' }
+  s.author           = { 'kindlymental' => '2995293916@qq.com' }
   s.source           = { :git => 'https://github.com/kindlymental/ComponentLibPod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
@@ -39,4 +41,9 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+s.dependency 'SnapKit', '~> 4.0.1'
+s.dependency 'Kingfisher', '~> 4.10.1'
+s.dependency 'Toast-Swift', '~> 4.0.0'
+s.dependency 'ObjectMapper', '~> 3.4'
+
 end

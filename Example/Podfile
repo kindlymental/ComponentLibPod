@@ -1,3 +1,6 @@
+
+project 'ComponentLibPod.xcodeproj'
+
 use_frameworks!
 
 target 'ComponentLibPod_Example' do
