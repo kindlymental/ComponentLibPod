@@ -2,6 +2,7 @@
   "name": "ComponentLibPod",
   "version": "0.1.0",
   "summary": "ComponentLibPod 封装的私有库.",
+  "swift_version": "4.0",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/kindlymental/ComponentLibPod",
   "license": {

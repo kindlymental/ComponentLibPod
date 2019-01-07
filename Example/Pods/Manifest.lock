@@ -31,7 +31,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ComponentLibPod: 4cc6f426d14119132ad5ad6f5217ae609cb2928b
+  ComponentLibPod: ba57946615180389925894fb36ba94cc6dbd672b
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
   ObjectMapper: 5311bd50ca732930959e7ca1a2de43ab823a5ced
