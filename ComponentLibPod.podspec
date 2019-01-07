@@ -32,7 +32,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'ComponentLibPod/Pod/Classes/**/*'
+  s.source_files = 'ComponentLibPod/Classes/**/*'
   
   # s.resource_bundles = {
   #   'ComponentLibPod' => ['ComponentLibPod/Assets/*.png']
